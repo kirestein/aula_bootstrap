@@ -1,4 +1,15 @@
-
-.navbar {
+* {
+    margin: 0;
+}
+.container-fluid {
     background-color: #65ba8d;
+}
+
+.quem-somos {
+    background-color: #96a2da;
+}
+
+.margin {
+    margin-top: 0;
+    padding: 2rem;
 }
