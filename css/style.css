@@ -1,15 +1,26 @@
 * {
     margin: 0;
 }
+
+body {
+    font: 1.25rem arial, sans-serif;
+}
 .container-fluid {
     background-color: #65ba8d;
 }
 
 .quem-somos {
     background-color: #96a2da;
+    color: white;
 }
 
 .margin {
     margin-top: 0;
     padding: 2rem;
+    padding-bottom: 3rem;
+    padding-top: 1rem;
+}
+
+.parceiros {
+    background-color: #3de9e9;
 }
