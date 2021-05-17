@@ -12,6 +12,7 @@ body {
 .quem-somos {
     background-color: #96a2da;
     color: white;
+    text-shadow: 2px 2px 2px #131313;
 }
 
 .margin {
@@ -23,4 +24,16 @@ body {
 
 .parceiros {
     background-color: #3de9e9;
+    color: white;
+    text-shadow: 2px 2px 2px #131313;
+}
+
+.servicos {
+    color: white;
+    text-shadow: 2px 2px 2px #131313;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
